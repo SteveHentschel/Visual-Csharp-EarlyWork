@@ -1,0 +1,9 @@
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\bin\Debug\Test Menus.exe
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\bin\Debug\Test Menus.pdb
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\Test_Menus.Form1.resources
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\Test_Menus.Properties.Resources.resources
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\Test Menus.exe
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Test Menus\Test Menus\obj\x86\Debug\Test Menus.pdb
