@@ -1,0 +1,9 @@
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\bin\Debug\Employees Database.exe
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\bin\Debug\Employees Database.pdb
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\Employees_Database.Form1.resources
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\Employees_Database.Properties.Resources.resources
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\Employees Database.exe
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\Employees Database\Employees Database\obj\x86\Debug\Employees Database.pdb
