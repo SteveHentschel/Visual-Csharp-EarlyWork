@@ -1,0 +1,5 @@
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\LinqTrials\LinqTrials\bin\Debug\LinqTrials.exe
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\LinqTrials\LinqTrials\bin\Debug\LinqTrials.pdb
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\LinqTrials\LinqTrials\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\LinqTrials\LinqTrials\obj\x86\Debug\LinqTrials.exe
+C:\Documents and Settings\All\my documents\visual studio 2010\Projects\LinqTrials\LinqTrials\obj\x86\Debug\LinqTrials.pdb
